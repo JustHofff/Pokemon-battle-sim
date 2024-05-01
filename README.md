@@ -1,1 +1,2 @@
 # Pokemon-battle-sim
+The code will be a game. The pokemon will be constructed through a parent class with subclasses for each pokemon along with their moves, types, and correlating gifs. I  also used processsing to coincide with our code for the game and to bring it to life. I have created a background and all of the menu features including buttons and highlighting the buttons with the mouse features using objects. For all of the battle mechanics, pokemon mechanics and more these include switch statements to enter each stage or phase of the related code.
